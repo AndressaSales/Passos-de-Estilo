@@ -1,6 +1,6 @@
 import React from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Navbar from './components/Navbar'
+import Navbar from './components/navbar/Navbar'
 import Footer from './components/Footer'
 import Home from './page/Home'
 import Mens from './page/Mens'
@@ -20,7 +20,7 @@ const App = () => {
       element: <> <Navbar/> <Mens/> <Footer/> </>
     },
     {
-      path: '/women',
+      path: '/womens',
       element: <> <Navbar/> <Womens/> <Footer/> </>
     },
     {
