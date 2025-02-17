@@ -7,7 +7,7 @@ let new_accessories = [
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A5.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A6.jpg',
         image4: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A7.jpg',
-        price: 99.99
+        new_price: 99.99
     },
     {
         id: 2,
@@ -16,7 +16,7 @@ let new_accessories = [
         image: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA6.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA5.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA4.jpg',
-        price: 99.99
+        new_price: 99.99
     },
     {
         id:33,
@@ -25,7 +25,7 @@ let new_accessories = [
         image: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A7.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A3.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A6.jpg',
-        price: 40
+        new_price: 40
     },
     {
         id: 22,
@@ -34,7 +34,7 @@ let new_accessories = [
         image: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A8.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A2.jpg',
-        price: 200
+        new_price: 200
     }
 ]
 

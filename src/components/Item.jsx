@@ -15,7 +15,7 @@ const Item = ({product}) => {
           <span aria-hidden="true" className='inset-0 text-sm text-dark'>{product?.name}</span>
         </Link>
        </div>
-       <p className='text-sm font-medium text-gray-900'>{product.price}</p>
+       <p className='text-sm font-medium text-gray-900'>R$ {product?.new_price}</p>
       </div>
     </div>
   )
