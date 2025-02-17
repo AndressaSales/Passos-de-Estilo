@@ -3,7 +3,7 @@ import backgroundBanner01 from '../assets/backgroundBanner01.png'
 
 const BannerGrup01 = () => {
   return (
-    <div className='bg-grey pt-40'>
+    <div className='bg-white pt-40'>
         <div className='relative max-w-7xl mx-auto pt-20 md:rounded-2xl bg-cover bg-center h-[450px] md:h-[500px]' style={{backgroundImage: `url(${backgroundBanner01})`}}>
             <div className='absolute inset-0 bg-[#0a0a0a] md:rounded-2xl bg-opacity-50 flex items-center justify-center'>
                 <div className='text-white text-center px-4'>
