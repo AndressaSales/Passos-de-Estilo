@@ -7,6 +7,7 @@ import Mens from './page/Mens'
 import Womens from './page/Womens'
 import Kids from './page/Kids'
 import Card from './page/Cart'
+import ProductSingle from './components/ProductSingle'
 
 const App = () => {
 
@@ -30,6 +31,10 @@ const App = () => {
     {
       path: '/cart',
       element: <> <Navbar/> <Card/> <Footer/> </>
+    },
+    {
+      path: '/product/:productId',
+      element: <> <Navbar/> <ProductSingle/> <Footer/> </>
     }
   ])
 

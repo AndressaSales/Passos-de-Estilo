@@ -7,11 +7,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        secundaryblue: '#036b68',
+        secundaryblue: '#004643',
         bluetext: '#dcfbff',
         primaryblue: '#61b5e3',
-        dark: '#0000',
-        white: '#ffff',
+        dark: '#001e1d',
+        white: '#fffffe',
         grey: '#dcdcdc'
       }
     },
