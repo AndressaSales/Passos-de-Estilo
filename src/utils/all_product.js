@@ -64,9 +64,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 6,
+        id: 7,
         name: 'Bota Adventure Gibizinho',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0FB3515A4.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M0FB3515A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/M0FB3515A2.jpg',
@@ -75,9 +75,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 7,
+        id: 8,
         name: 'Sandália Nike Sunnray',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M14IUD03A5.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M14IUD03A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/M14IUD03A2.jpg',
@@ -86,7 +86,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 8, 
+        id: 9, 
         name: 'Chuteira Futsal',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M1516H02A8.jpg',
@@ -97,7 +97,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 9,
+        id: 10,
         name: 'Bota de Couro',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/98588015A9.jpg',
@@ -108,7 +108,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 10,
+        id: 11,
         name: 'Bota Via Livre Madri',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0Z25212A5.jpg',
@@ -119,7 +119,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 11,
+        id: 12,
         name: 'Tênis ASICS',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/98598258A9.jpg',
@@ -130,7 +130,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 12,
+        id: 13,
         name: 'Tênis Converse All Star',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/89077801A10.jpg',
@@ -140,7 +140,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 13,
+        id: 14,
         name: 'Chuteira Futsal',
         category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/768x768/97948331A9.jpg',
@@ -152,7 +152,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 14,
+        id: 15,
         name: 'Chuteira Fultsal',
         category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/99084304A9.jpg',
@@ -164,7 +164,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 15,
+        id: 16,
         name: 'Bota Impermeável',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/85580402A10.jpg',
@@ -175,7 +175,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 16,
+        id: 17,
         name: 'Bota de Couro',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/972834NEA9.jpg',
@@ -186,7 +186,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 17,
+        id: 18,
         name: 'Tênis adidas',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/98140451A9.jpg',
@@ -197,7 +197,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 18,
+        id: 19,
         name: 'Tênis Olympikus',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M123PU02A5.jpg',
@@ -208,7 +208,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 19,
+        id: 20,
         name: 'Tênis Under',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M15U7LHNA5.jpg',
@@ -219,7 +219,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 20,
+        id: 21,
         name: 'Tênis adidas',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M14P3802A10.jpg',
@@ -230,7 +230,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 21,
+        id: 22,
         name: 'Tênis Olympikus',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/94832204A9.jpg',
@@ -241,7 +241,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 22,
+        id: 23,
         name: 'Chinelo cros Crrocband',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/768551EZA7.jpg',
@@ -252,7 +252,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 23,
+        id: 24,
         name: 'Chinelo Slide',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0XELJ01A4.jpg',
@@ -263,7 +263,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 24,
+        id: 25,
         name: 'sandália Crocs',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/962838EZA9.jpg',
@@ -274,9 +274,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 25,
+        id: 26,
         name: 'sandália Nike Sunray',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0YPTJ71A3.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M0YPTJ71A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/1024x1024/M0YPTJ71A2.jpg',
@@ -284,7 +284,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 26,
+        id: 27,
         name: 'Chinelo Slide Nike Kawa',
         category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0LB6302A4.jpg',
@@ -295,9 +295,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 27,
+        id: 28,
         name: 'Chinelo Grende Disney',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M11TQE04A5.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M11TQE04A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/M11TQE04A2.jpg',
@@ -306,9 +306,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 28,
+        id: 29,
         name: 'Chuteira de Campo Puma',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/987809EZA9.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/987809EZA1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/987809EZA2.jpg',
@@ -317,7 +317,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 29,
+        id: 30,
         name: 'Tênis Nike SB Force',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/97990050A2.jpg',
@@ -328,7 +328,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 30,
+        id: 31,
         name: 'Tênis Ecko Detroit',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/99321903A2.jpg',
@@ -339,18 +339,18 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 31,
-        name: '',
-        category: 'Kids',
-        image: '',
-        image2: '',
-        image3: '',
-        image4: '',
+        id: 32,
+        name: 'Tênis Olympikus',
+        category: 'kids',
+        image: 'https://imgcentauro-a.akamaihd.net/1024x1024/94832202A10.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/1024x1024/94832202A1.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/94832202A2.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/94832202A3.jpg',
         new_price: 150.90,
         old_price: 200
     },
     {
-        id: 32,
+        id: 33,
         name: 'Tênis Mizuno Wave Invictus',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M0ZC1X02A5.jpg',
@@ -361,9 +361,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 33,
+        id: 34,
         name: 'Sandália de Bebê Cartago',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/1024x1024/M14LJZYSA1.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/1024x1024/M14LJZYSA2.jpg',
         new_price: 150.90,
@@ -371,9 +371,9 @@ let all_product = [
 
     },
     {
-        id: 34,
+        id: 35,
         name: 'Sandália cros Crocband Cruiser',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M13BZ6EZA7.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M13BZ6EZA1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/M13BZ6EZA2.jpg',
@@ -382,9 +382,9 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 35,
+        id: 36,
         name: 'Tênis adidas Grand Court',
-        category: 'Kids',
+        category: 'kids',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/9835650EA9.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/9835650EA1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/9835650EA2.jpg',
@@ -393,7 +393,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 36,
+        id: 37,
         name: 'Chinelo Havaianas Brasil',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/50970401A10.jpg',
@@ -404,7 +404,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 37,
+        id: 38,
         name: 'Tênis Nike Precision',
         category: 'men',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M1527003A8.jpg',
@@ -415,7 +415,7 @@ let all_product = [
         old_price: 200
     },
     {
-        id: 38,
+        id: 39,
         name: 'Tênis Nike Lebron Witness',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/M14X7VO3A8.jpg',
