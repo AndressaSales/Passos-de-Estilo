@@ -1,15 +1,16 @@
 import { AlignLeft, AlignRight, ShoppingCart } from 'lucide-react'
-import React, { useState } from 'react'
+import React, { useContext, useState } from 'react'
 import { Link } from 'react-router-dom'
 import logo from '../../assets/shoe.png'
 import ResponsiveNavbar from './ResponsiveNavbar'
-
+import {Shopcontext} from '../../shop/Shop'
 const Navbar = () => {
 
   const [menu, setMenu] = useState(false)
   const toogleMenu = () => {
     setMenu(!menu)
   }
+  const {totalCart} = useContext(Shopcontext)
 
   return (
     <div className='bg-secundaryblue px-4 fixed w-full z-50 shadow-sm top-0'>
@@ -28,7 +29,7 @@ const Navbar = () => {
           </nav>
           <Link to='/cart' className='relative w-10'>
             <ShoppingCart size={25} className='text-bluetext'/>
-            <div className='bg-red-500 w-5 absolute -top-2 right-1 flex items-center justify-center rounded-full text-white'>0</div>
+            <div className='bg-red-500 w-5 absolute -top-2 right-1 flex items-center justify-center rounded-full text-white'>{totalCart()}</div>
           </Link>
           {
             menu ? (
