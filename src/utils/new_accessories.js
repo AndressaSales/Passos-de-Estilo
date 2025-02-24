@@ -1,6 +1,6 @@
 let new_accessories = [
     {
-        id: 1,
+        id: 41,
         name: 'Boné Aba Curva Los Angeles',
         category: 'women',
         image: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A10.jpg',
@@ -11,34 +11,37 @@ let new_accessories = [
         old_price: 120
     },
     {
-        id: 2,
-        name: 'Boné Aba Curva adidas',
+        id: 40,
+        name: 'Tênis Converse All Star Chuck Taylor',
         category: 'women',
-        image: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA6.jpg',
-        image2: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA5.jpg',
-        image3: 'https://imgcentauro-a.akamaihd.net/768x768/9835872XA4.jpg',
-        new_price: 99.99,
-        old_price: 120
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA2.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA3.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA4.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA5.jpg',
+        new_price: 150.90,
+        old_price: 200
     },
     {
-        id:33,
-        name: 'Kit de Meia Sapatilha Puma',
+        id:43,
+        name: 'Tênis Nike Lebon Witness',
         category: 'men',
-        image: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A7.jpg',
-        image2: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A3.jpg',
-        image3: 'https://imgcentauro-a.akamaihd.net/380x380/95256101A6.jpg',
-        new_price: 40,
-        old_price: 55
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A8.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A1.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A2.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A3.jpg',
+        new_price: 150.90,
+        old_price: 200
     },
     {
-        id: 22,
-        name: 'Camisa do Palmeiras',
-        category: 'men',
-        image: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A8.jpg',
-        image2: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A1.jpg',
-        image3: 'https://imgcentauro-a.akamaihd.net/380x380/98809501A2.jpg',
-        new_price: 200,
-        old_price: 315
+        id: 42,
+        name: 'Chinelo Grendene Homem Aranha',
+        category: 'kids',
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A1.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A2.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A3.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A4.jpg',
+        new_price: 150.90,
+        old_price: 200
     }
 ]
 

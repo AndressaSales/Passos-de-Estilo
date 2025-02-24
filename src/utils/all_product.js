@@ -23,10 +23,12 @@ let all_product = [
     },
     {
         id: 3,
-        name: 'Tênis Mizuno Wave Tomamic',
+        name: 'Tênis adidas Amplimove Trainer',
         category: 'women',
-        image: 'https://imgcentauro-a.akamaihd.net/1024x1024/991894JUA9.jpg',
-        image2: 'https://imgcentauro-a.akamaihd.net/1024x1024/991894JUA1.jpg',
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/M12P0202A10.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/M12P0202A1.jpg',
+        image3:'https://imgcentauro-a.akamaihd.net/480x480/M12P0202A2.jpg' ,
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/M12P0202A3.jpg',
         new_price: 150.90,
         old_price: 200
     },
@@ -37,8 +39,7 @@ let all_product = [
         image: 'https://imgcentauro-a.akamaihd.net/1024x1024/99053276A9.jpg',
         image2: 'https://imgcentauro-a.akamaihd.net/1024x1024/99053276A2.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/1024x1024/99053276A1.jpg',
-        image4: 'https://imgcentauro-a.akamaihd.net/1024x1024/991894JUA9.jpg',
-        image5: 'https://imgcentauro-a.akamaihd.net/1024x1024/991894JUA1.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/99053276A3.jpg',
         new_price: 150.90,
         old_price: 200
     },
@@ -422,6 +423,50 @@ let all_product = [
         image2: 'https://imgcentauro-a.akamaihd.net/380x380/M14X7VO3A1.jpg',
         image3: 'https://imgcentauro-a.akamaihd.net/380x380/M14X7VO3A2.jpg',
         image4: 'https://imgcentauro-a.akamaihd.net/1024x1024/M14X7VO3A3.jpg',
+        new_price: 150.90,
+        old_price: 200
+    },
+    {
+        id: 40,
+        name: 'Tênis Converse All Star Chuck Taylor',
+        category: 'women',
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA2.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA3.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA4.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/952365RJA5.jpg',
+        new_price: 150.90,
+        old_price: 200
+    },
+    {
+        id: 41,
+        name: 'Boné Aba Curva Los Angeles',
+        category: 'women',
+        image: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A10.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A5.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A6.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/380x380/98167204A7.jpg',
+        new_price: 150.90,
+        old_price: 200
+    },
+    {
+        id: 42,
+        name: 'Chinelo Grendene Homem Aranha',
+        category: 'kids',
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A1.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A2.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A3.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/M15YWQ02A4.jpg',
+        new_price: 150.90,
+        old_price: 200
+    },
+    {
+        id:43,
+        name: 'Tênis Nike Lebon Witness',
+        category: 'men',
+        image: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A8.jpg',
+        image2: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A1.jpg',
+        image3: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A2.jpg',
+        image4: 'https://imgcentauro-a.akamaihd.net/480x480/M15VHI19A3.jpg',
         new_price: 150.90,
         old_price: 200
     }
