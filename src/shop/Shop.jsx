@@ -7,7 +7,7 @@ export const Shopcontext = createContext(null);
 const getCart = () => {
     let cart = {}
     for (let index = 0; index < all_product.length + 1; index++){
-        cart[index] = 0
+      cart[index] = 0
     }
     return cart
 }
@@ -17,18 +17,20 @@ const Shop = (props) => {
   const [cartItem, setCartItem] = useState(getCart())
 
   const add = (itemId) => {
-    setCartItem((prev) => ({...prev, [itemId]:prev[itemId] + 1}))
+    setCartItem((prev) => ({...prev,[itemId]:prev[itemId] + 1}))
   }
 
   const remove = () => {
-    setCartItem((prev) => ({...prev, [itemId]:prev[itemId] - 1}))
+    setCartItem((prev) => ({...prev,[itemId]:prev[itemId] - 1}))
   }
   
   const getTotal = () => {
     let total = 0
     for (const item in cartItem){
-      let info = all_product.find((product) => product.id === Number(item))
-      total += cartItem[item] * info.new_price
+     if (cartItem[item] > 0){
+        let info = all_product.find((product) => product.id === Number(item))
+        total += cartItem[item] * info.new_price
+     }
     }
     return total
   }
@@ -43,7 +45,7 @@ const Shop = (props) => {
    return totItem
   }
 
-    const valueContext = {all_product, new_accessories, add, remove, getTotal, totalCart}
+    const valueContext = {all_product, new_accessories, add, remove, getTotal, totalCart, cartItem}
   return (
     <Shopcontext.Provider value={valueContext}>
         {props.children}
